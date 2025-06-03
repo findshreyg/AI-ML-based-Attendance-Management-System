@@ -75,9 +75,6 @@ python login.py
 - Always secure your database credentials.
 - Consider encrypting stored passwords.
 
-## 📸 Screenshots
-
-> UI backgrounds and face recognition views are supported via assets in the `Backgrounds/` folder.
 
 ## 📄 License
 
